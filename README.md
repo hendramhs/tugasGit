@@ -1,1 +1,3 @@
 # tugas lorem
+gaegg
+gregegg
