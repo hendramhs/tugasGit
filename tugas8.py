@@ -68,3 +68,5 @@ for i in range(len(jmlhJagung)):
         print(f"maka lokasi {i+1} tersebut memerlukan perhatian khusus")
     else:
         print(f"maka lokasi {i+1} tersebut dalam kondisi baik.")
+
+print(" ")
