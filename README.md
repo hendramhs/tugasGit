@@ -1,3 +1,2 @@
 # tugas lorem
-gaegg
-gregegg
+
