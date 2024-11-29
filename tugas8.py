@@ -69,4 +69,4 @@ for i in range(len(jmlhJagung)):
     else:
         print(f"maka lokasi {i+1} tersebut dalam kondisi baik.")
 
-print("saya hendra")
+print("saya manusia")
